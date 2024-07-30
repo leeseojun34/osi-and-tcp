@@ -1,2 +1,3 @@
-# osi-and-tcp
-BoB 13기 네트워크 'osi and tcp' 과제 제출 레포지토리
+# OSI 7 Layer and TCP/IP Layer
+
+![alt text](osi-and-tcp.png)
